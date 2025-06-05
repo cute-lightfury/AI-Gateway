@@ -1,5 +1,6 @@
 # PowerShell conversion of OpenAI API test
 
+
 # Configuration parameters
 $runs = 20
 $sleepTimeMs = 100
